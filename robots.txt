@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-0wdx73.bento4cad.lat/sitemap.xml
